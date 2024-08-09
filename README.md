@@ -4,6 +4,11 @@ It's is a free online REST API that you can use to ditect cardiovascular disease
 
 ## Installation
 
+Install fastapi to you local computer
+```
+pip install "fastapi[standard]"
+```
+
 Clone reposity from GitHub
 ```
 git clone https://github.com/mamun-swe/cardiovascular-diseases-ditection-api
